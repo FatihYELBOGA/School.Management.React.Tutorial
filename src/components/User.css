@@ -1,0 +1,48 @@
+.title{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.div-user{
+    position: relative;
+    left: 35%;
+    width: 30%;  
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+.header{
+    background-color: rgb(231, 253, 253);
+    border: solid 2px grey;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 4px 8px 10px;
+    margin-bottom: 20px;
+}
+
+.name{
+    background-color: rgb(231, 253, 253);
+    display: inline-block;
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.sub-info{
+    background-color: rgb(255, 255, 231);
+    padding: 10px;
+    border: solid 1px rgb(215, 215, 215);
+    border-radius: 15px;
+    font-style: italic;
+    margin: 5px;
+}
+
+.icon-user{
+    margin-right: 5%;
+}
+
+.icon-trash{
+    position: absolute;
+    left: 90%;
+    cursor: pointer;
+}

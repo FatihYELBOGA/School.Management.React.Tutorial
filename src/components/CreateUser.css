@@ -1,0 +1,55 @@
+form{
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+    background-color: rgb(238, 251, 255);
+    width: 30%;
+    position: relative;
+    left: 35%;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    padding-bottom: 25px;
+    border: solid 3px red;
+    border-radius: 25px;
+}
+
+label{
+    position: absolute;
+    left: 10%;
+}
+
+input{
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+    position: relative;
+    left: 8%;
+    width: 84%;
+    border-radius: 10px;
+    position: absolute;
+}
+
+select{
+    font-size: 18px;  
+    font-style: italic;
+    font-weight: bold;
+    border-radius: 10px;
+    position: relative;
+    left: 8%;
+    width: 84%;
+}
+
+
+button{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(243, 243, 243);
+    color: rgb(0, 0, 0);
+    width: 250px;
+    border-radius: 10px;
+    position: relative;
+    left: 8%;
+    width: 84%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}

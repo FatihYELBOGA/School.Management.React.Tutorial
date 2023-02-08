@@ -1,0 +1,44 @@
+{
+    "students": [
+        {
+            "id": "270201028",
+            "name": "Fatih",
+            "surname": "YELBOĞA",
+            "department": "Computer Engineering",
+            "age": 20,
+            "phoneNumber": "+90-541-861-57-50"
+        },
+        {
+            "id": "270201030",
+            "name": "Osman",
+            "surname": "ALTUNAY",
+            "department": "Electric-Electronic Engineering",
+            "age": 21,
+            "phoneNumber": "+90-545-850-50-50"
+        },
+        {
+            "id": "270201032",
+            "name": "Berkay",
+            "surname": "BAYRAK",
+            "department": "Mechanical Engineering",
+            "age": 22,
+            "phoneNumber": "+90-536-975-57-50"
+        },
+        {
+            "id": "270201034",
+            "name": "Furkan",
+            "surname": "DEMİR",
+            "department": "Civil Engineering",
+            "age": 23,
+            "phoneNumber": "+90-534-861-57-08"
+        },
+        {
+            "id": "270201036",
+            "name": "Burak",
+            "surname": "KURT",
+            "department": "Computer Engineering",
+            "age": 24,
+            "phoneNumber": "+90-541-086-40-50"
+        }
+    ]
+}

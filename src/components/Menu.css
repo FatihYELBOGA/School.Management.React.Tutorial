@@ -1,0 +1,22 @@
+.menu{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-bottom: 75px;
+    text-align: center;
+}
+
+.menu-item{
+    background-color: rgb(208, 233, 255);
+    color: black;
+    position: relative;
+    text-decoration: none;
+    border: solid 3px black;
+    border-radius: 20px;
+    padding: 15px 50px 15px 50px;
+    margin-right: 8px;
+    margin-left: 8px;
+    text-align: center;
+    box-shadow: 4px 6px 10px;
+}
